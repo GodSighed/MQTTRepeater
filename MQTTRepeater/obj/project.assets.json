@@ -5972,11 +5972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vs2019WorkSpace\\MQTTRepeater\\MQTTRepeater\\MQTTRepeater.csproj",
+      "projectUniqueName": "D:\\vs2019WorkSpace\\GitMQTTRepeater\\MQTTRepeater\\MQTTRepeater\\MQTTRepeater.csproj",
       "projectName": "MQTTRepeater",
-      "projectPath": "D:\\vs2019WorkSpace\\MQTTRepeater\\MQTTRepeater\\MQTTRepeater.csproj",
+      "projectPath": "D:\\vs2019WorkSpace\\GitMQTTRepeater\\MQTTRepeater\\MQTTRepeater\\MQTTRepeater.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\vs2019WorkSpace\\MQTTRepeater\\MQTTRepeater\\obj\\",
+      "outputPath": "D:\\vs2019WorkSpace\\GitMQTTRepeater\\MQTTRepeater\\MQTTRepeater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",

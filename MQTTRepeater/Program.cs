@@ -13,7 +13,7 @@ namespace MQTTRepeater
 {
     class Program
     {
-        private static int _heartBeat = 0;//心跳计数器
+        private static int _heartBeat = 0;//心跳计数器,修改一次
         private static Model.MyMqtt _myMqtt;
         private static IMqttClient _client;
         private static DBUtility.DbHelperMySQL _dbHelperMySQL;
